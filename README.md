@@ -1,2 +1,2 @@
-# pilhas_rwann
-exercicio de pilha rwann
+# pilhas_r
+exercicio de pilha rw
